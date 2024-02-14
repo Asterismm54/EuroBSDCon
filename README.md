@@ -1,4 +1,4 @@
-**EuroBSDCon** #00cc66
+**EuroBSDCon** 
 :atom: :electron: :octocat: :atom: :electron: :octocat: :atom: :electron: :octocat: :atom: :electron: :octocat: 
 EuroBSDCon is the European annual technical conference gathering users and developers working on and with 4.4BSD (Berkeley Software Distribution) based operating systems family and related projects.
 
