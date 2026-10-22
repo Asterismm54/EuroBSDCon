@@ -9,6 +9,3 @@ This yearly conference gives the exceptional opportunity to learn about the late
 
 The conference has always attracted active programmers, administrators, and researchers, as well as IT companies, which find the conference to be a convenient, inclusive, and quality professional development option for staff.  We firmly believe that education is vital to the future of technology, and hence greatly welcome students and young people to this regular meeting.
 
-If you haven’t yet subscribed to the announcement mailing list, it is recommended that you do so at the link below for important conference announcements:
-
-[Subscribe to Mailing List](https://2024.eurobsdcon.org/lists.php)
